@@ -2,7 +2,7 @@
  Weather Application of All location in the world with open wather API 
 
 ## Motivation
-This is a project for my learning record and this is a android beginner final submission [dicoding](https://www.dicoding.com/academies/51)
+This is a project of my learning record for android beginner final submission at [Dicoding](https://www.dicoding.com/academies/51)
 
 ## Screenshot
 Home                       | Detail Weather            | Weather Search            | Author Detail
