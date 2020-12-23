@@ -1,11 +1,10 @@
 # BigCityWeatherApp
  Weather Application of All location in the world with open wather API 
- 
 
-<img src="https://github.com/farhantandia/BigCityWeatherApp-Android/blob/master/screenshoot/1.jpg" width="250"/>
+## Motivation
+This is a project for my learning record and this is a android beginner final submission [dicoding](https://www.dicoding.com/academies/51)
 
-<img src="https://github.com/farhantandia/BigCityWeatherApp-Android/blob/master/screenshoot/2.jpg" width="250"/>
-
-<img src="https://github.com/farhantandia/BigCityWeatherApp-Android/blob/master/screenshoot/3.jpg" width="250"/>
-
-<img src="https://github.com/farhantandia/BigCityWeatherApp-Android/blob/master/screenshoot/4.jpg" width="250"/>
+## Screenshot
+Home                       | Detail Weather            | Weather Search            | Author Detail
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/farhantandia/Android-App-Dev/blob/main/BigCityWeatherApp/screenshot/1.jpg" width="250"/>|<img src="https://github.com/farhantandia/Android-App-Dev/blob/main/BigCityWeatherApp/screenshot/2.jpg" width="250"/>|<img src="https://github.com/farhantandia/Android-App-Dev/blob/main/BigCityWeatherApp/screenshot/3.jpg" width="250"/>|<img src="https://github.com/farhantandia/Android-App-Dev/blob/main/BigCityWeatherApp/screenshot/4.jpg" width="250"/>
