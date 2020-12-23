@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/author_gradient">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/ivProfile"
+        android:layout_width="270dp"
+        android:layout_height="270dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        tools:src="@android:color/darker_gray"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ava" />
+    <LinearLayout
+        android:id="@+id/profile_data"
+        android:layout_below="@+id/ivProfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:background="#3CF1EBF1">
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ivProfile"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="@string/author_name"
+        android:textColor="@color/colortext"
+        android:textSize="22sp"
+
+        android:textStyle="bold" />
+        <TextView
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ivProfile"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="@string/author_email"
+            android:textColor="@color/yellow"
+            android:textSize="18sp"
+            android:textStyle="italic" />
+        <TextView
+            android:id="@+id/desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ivProfile"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="@string/author_desc"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:textStyle="italic"
+            android:background="#3CF1EBF1" />
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ivProfile"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="FOLLOW ME!"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_below="@+id/profile_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:padding="5dp">
+        <ImageView
+            android:id="@+id/facebook"
+            android:layout_margin="15dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            app:srcCompat="@drawable/fb">
+        </ImageView>
+        <ImageView
+            android:id="@+id/instagram"
+            android:layout_width="60dp"
+            android:layout_height="80dp"
+            android:layout_margin="15dp"
+            app:srcCompat="@drawable/ig">
+        </ImageView>
+        <ImageView
+            android:id="@+id/linkedin"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="15dp"
+            app:srcCompat="@drawable/link">
+        </ImageView>
+    </LinearLayout>
+
+
+</RelativeLayout>

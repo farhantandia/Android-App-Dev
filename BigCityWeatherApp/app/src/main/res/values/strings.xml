@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Big City Weather App</string>
+    <string name="cities_name">City Name</string>
+    <string name="country">Country</string>
+    <string name="author_name">M. Farhan Tandia</string>
+    <string name="author_email">farhantandia@gmail.com</string>
+    <string name="author_desc">Hi! I am a Masters student from the Departement of Electrical Engineering and Computer Science at National Chiao Tung University, Taiwan. Prior to that, I completed my Bachelors degree in Electrical Engineering with concentration of control and instrumentation from Universitas Gadjah Mada, Indonesia. Currently, I am working as research assistant in Natural Intelligence Learning Laboratory at NCTU, Taiwan. My research is broadly interested in industrial automation system (control and instrumentation), IoT, deep learning and related problems in machine learning.</string>
+</resources>
