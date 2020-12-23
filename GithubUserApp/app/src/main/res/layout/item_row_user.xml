@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/White"
+    android:padding="16dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/user_img"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/user1"
+        app:civ_border_width="2dp"
+        app:civ_border_color="@color/colorPrimaryDark" />
+    <LinearLayout
+        android:id="@+id/user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/user_img"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:id="@+id/user_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="NAME"
+            android:textStyle="bold"
+            android:padding="3dp"
+            android:textColor="@color/colorPrimaryDark">
+        </TextView>
+        <TextView
+            android:id="@+id/user_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text="username"
+            android:drawableLeft="@drawable/ic_acc_black"
+            android:textStyle="italic"
+            android:textColor="@color/colorPrimaryDark">
+        </TextView>
+        <TextView
+            android:id="@+id/user_company"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13dp"
+            android:padding="2dp"
+            android:text="Company"
+            android:drawableLeft="@drawable/ic_company_black"
+            android:textColor="@color/colorPrimaryDark">
+        </TextView>
+    </LinearLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="author_desc">Hi! Saya adalah seorang mahasiswa Master dari Departemen Teknik Elektro dan Ilmu Komputer di National Chiao Tung University, Taiwan. Sebelumnya, saya menyelesaikan gelar Sarjana Teknik Elektro pada konsentrasi kendali dan instrumentasi dari Universitas Gadjah Mada, Indonesia. Saat ini, saya bekerja sebagai asisten peneliti di Laboratorium Natural Intelligent di NCTU, Taiwan. Penelitian saya secara luas tertarik pada sistem otomasi industri (kontrol dan instrumentasi), IoT, dan Data Science.</string>
+    <string name="hello_main">Silahkan gunakan fitur pencarian, data akan dimuat disini.</string>
+    <string name="author_follow">Ikuti saya!</string>
+    <string name="app_name">Github User App</string>
+    <string name="user">Pengguna</string>
+    <string name="name">Nama</string>
+    <string name="Reminder">Pengingat</string>
+    <string name="search">Cari</string>
+    <string name="username">Pengguna</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_follower_fragment">Ini Fragment Follower</string>
+    <string name="content_fragment_following">Ini Fragment Following</string>
+    <string name="title_follower">Pengikut</string>
+    <string name="title_following">Mengikuti</string>
+    <string name="username_follower">Nama Pengguna Pengikut</string>
+    <string name="username_following">Nama Pengguna Mengikuti</string>
+    <string name="progress">Harap Tunggu …</string>
+    <string name="title">Github User App</string>
+    <string name="search_user">Cari Pengguna Github</string>
+    <string name="location">Lokasi</string>
+    <string name="change_language_setting">Ubah Bahasa</string>
+    <string name="about_me">Tentang Saya</string>
+    <string name="detail_user">Detail Pengguna</string>
+    <string name="about">Halaman Tentang</string>
+
+    <string name="reminded">reminded</string>
+    <string name="reminder">Hallo, jangan lupa membuka GitHub!</string>
+    <string name="alarmsetup">Daily reminder di aktifkan</string>
+    <string name="repeating_alarm_cancel">Daily reminder dibatalkan</string>
+    <string name="attachment_summary_on">Matikan pengingat harian pukul 09.00 pagi</string>
+    <string name="attachment_summary_off">Hidupkan pengingat harian pukul 09.00 pagi</string>
+    <string name="dailyreminder">Atur Pengingat Harian</string>
+    <string name="attachment_title">Pengingat Harian</string>
+    <string name="remind">Pengingat Harian</string>
+    <string name="change_settings">Favorit</string>
+
+    <string name="nofavorites">Tidak ada user favorit</string>
+    <string name="favorite_delete_success">Pengguna favorit dihapus</string>
+    <string name="favorite_add_success">Pengguna favorit ditambahkan</string>
+    <string name="no_favorites">Tidak ada pengguna favorit</string>
+    <string name="search_hint">Cari user favoritmu</string>
+    <string name="favoriteuser">Pengguna Favorit</string>
+
+    <string name="appwidget_title">User Github Favorit </string>
+</resources>

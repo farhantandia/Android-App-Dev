@@ -1,0 +1,52 @@
+<resources>
+
+    <string name="splash_copyright" translatable="false">Copyright © 2020 by Farhan Tandia</string>
+    <string name="splash_text" translatable="false">GITHUB</string>
+    <string name="empty" translatable="false">---</string>
+    <string name="author_follow">Follow me!</string>
+    <string name="author_name" translatable="false">M. Farhan Tandia</string>
+    <string name="author_email" translatable="false">farhantandia@gmail.com</string>
+    <string name="author_desc">Hi! I am a Masters student from the Departement of Electrical Engineering and Computer Science at National Chiao Tung University, Taiwan. Prior to that, I completed my Bachelors degree in Electrical Engineering with concentration of control and instrumentation from Universitas Gadjah Mada, Indonesia. Currently, I am working as research assistant in Natural Intelligence Learning Laboratory at NCTU, Taiwan. My research is broadly interested in industrial automation system (control and instrumentation), IoT, and Data Science.</string>
+    <string name="hello_main">Please use search feature above, the data will loaded here.</string>
+    <string name="app_name">Github User App</string>
+    <string name="Reminder">Reminder</string>
+    <string name="user">User</string>
+    <string name="name">Name</string>
+    <string name="search">Search</string>
+    <string name="username">Username</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_follower_fragment">Ini Fragment Follower</string>
+    <string name="content_fragment_following">Ini Fragment Following</string>
+    <string name="title_follower">Follower</string>
+    <string name="title_following">Following</string>
+    <string name="username_follower">username follower</string>
+    <string name="username_following">username following</string>
+    <string name="progress">Wait ...</string>
+    <string name="title">Github User App</string>
+    <string name="search_user">Search User</string>
+    <string name="location">Location</string>
+    <string name="change_language_setting">Change Language</string>
+    <string name="about_me">About Author</string>
+    <string name="detail_user">Detail User</string>
+    <string name="about">About</string>
+
+    <string name="attachment_title">Daily Reminder</string>
+    <string name="reminded">reminded</string>
+    <string name="reminder">Hallo, Don\'t forget to open GitHub!</string>
+    <string name="alarmsetup">Daily reminder set up</string>
+    <string name="repeating_alarm_cancel">Daily reminder Cancelled</string>
+    <string name="attachment_summary_on">Turn off daily reminder every 09.00</string>
+    <string name="attachment_summary_off">Turn on daily reminder every 09.00 AM</string>
+    <string name="dailyreminder">Set a Daily Reminder</string>
+    <string name="remind">Daily Reminder</string>
+
+    <string name="change_settings">Favorites</string>
+    <string name="favoriteuser">Favorite User</string>
+    <string name="nofavorites">No Favorite User</string>
+    <string name="favorite_delete_success">Delete favorite success</string>
+    <string name="favorite_add_success">Add favorite success</string>
+    <string name="no_favorites">No Favorites</string>
+    <string name="search_hint">Search your favorite user</string>
+
+    <string name="appwidget_title">Favorite Github User </string>
+</resources>

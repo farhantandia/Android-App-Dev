@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_change_settings"
+        android:title="@string/change_language_setting"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/advanced_setting"
+        android:title="@string/Reminder"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_about"
+        android:title="@string/about_me"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/favorite"
+        android:title="@string/change_settings"
+        android:icon="@drawable/ic_baseline_stars_24"
+        app:showAsAction="collapseActionView|always" />
+
+</menu>
