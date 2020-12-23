@@ -4,6 +4,21 @@
 ## Motivation
 This is a project for my learning record and this is a android fundamental final submission [dicoding](https://www.dicoding.com/academies/14)
 
+## Features
+- Implementing SearchView to perform data search
+- Implementing a RecyclerView to display data in the form of a list
+- Click function on RecyclerView
+- Using TabLayout as navigation between pages
+- Implementing Localization for multiple language support in the app
+- Perform a network request with the return value in the form of Json (Github API)
+- Using third-party libraries such as Retrofit
+- Implementing a database CRUD in an application
+- Implementing Alarm Manger to run a process at a certain time repeatedly and displays notification on the device)
+- Creating consumer applications to test Content Providers in providing data
+- Applications must be able to add  and remove  users from the favorite list
+- Added Stack Widget to display the user's favorite list.
+- A splash screen that matches the theme of the application
+
 ## Screenshot
 Splash Screen              | Home                       | Settings                  | User Search             | 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
