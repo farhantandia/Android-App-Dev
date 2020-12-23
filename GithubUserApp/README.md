@@ -2,7 +2,7 @@
  Github user search application with Github API 
 
 ## Motivation
-This is a project for my learning record and this is a android fundamental final submission [Dicoding](https://www.dicoding.com/academies/14)
+This is a project learning record for android fundamental final submission at [Dicoding](https://www.dicoding.com/academies/14)
 
 ## Features
 - Implementing SearchView to perform data search
